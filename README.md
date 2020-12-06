@@ -1,2 +1,2 @@
-# collision-v1
-itTouching function
+# collisionAlgorithm
+Algorithm to detect collision between two objects
